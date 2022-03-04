@@ -1,6 +1,6 @@
 {
-	"author":"Jubayer Arefin",
 	"name": "fcc-learn-npm-package-json",
+    "author": "Jubayer Arefin",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
